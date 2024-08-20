@@ -1,0 +1,6 @@
+[submodule "markiosk"]
+	path = markiosk
+	url = git@github.com:emrea-works/monoco-dapp.git
+[submodule "markedata"]
+	path = markedata
+	url = git@github.com:emrea-works/dapp-monoco-database.git
