@@ -1,6 +1,7 @@
 [submodule "markiosk"]
 	path = markiosk
 	url = git@github.com:emrea-works/monoco-dapp.git
+	branch = self-hosting
 [submodule "markedata"]
 	path = markedata
 	url = git@github.com:emrea-works/dapp-monoco-database.git
