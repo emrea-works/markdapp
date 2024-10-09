@@ -4,3 +4,4 @@
 - mongodb container
 - redis container
 - ngrok setup
+- .gitignore of parent repo
