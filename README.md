@@ -1,4 +1,4 @@
-# MarkedApp, RWA Market DApp 
+# mark'dapp, RWA Market dApp 
 
 A fork of the closed project:
 - [monoco.io](https://github.com/mugurc/dapp-monoco-next)
