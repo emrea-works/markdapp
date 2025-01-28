@@ -9,13 +9,15 @@ function start_sessions {
   brave_init="brave-browser --profile-directory='Profile 14' 'http://localhost:$APP_PORT' > /dev/null 2>&1 &"
 
   # Start IDE with opening folders
-  pulsar $PROJECT_DIR $APP_DIR
+  pulsar $PROJECT_DIR $APP_DIR $APP_DIR/CRUISELOG.md
 
   # Start tmux
   tmux new-session -d -s $SESSION
 
   # Create a new window for the development server
   tmux send-keys -t $SESSION:0.0 "cd $APP_DIR" C-m
+  tmux send-keys -t $SESSION:0.0 "pnpm install" C-m
+  tmux send-keys -t $SESSION:0.0 "pnpm exec prisma generate" C-m
   tmux send-keys -t $SESSION:0.0 "pnpm dev --port $APP_PORT" C-m
 
   # Split the development server window horizontally
