@@ -1,0 +1,289 @@
+Transferred:   	         13 B / 52.885 MiB, 0%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Transferred:            0 / 1146, 0%
+Elapsed time:         0.4s
+Transferring:
+ *                                    .gitignore:100% /13, 0/s, -
+ *                                   .gitmodules:  0% /214, 0/s, -
+ *                                     .sync.log:  0% /180, 0/s, -
+ *                                     README.md:  0% /177, 0/s, -Transferred:   	        227 B / 52.885 MiB, 0%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Transferred:            0 / 1146, 0%
+Elapsed time:         0.9s
+Transferring:
+ *                                    .gitignore:100% /13, 0/s, -
+ *                                   .gitmodules:100% /214, 0/s, -
+ *                                     .sync.log:  0% /180, 0/s, -
+ *                                     README.md:  0% /177, 0/s, -Transferred:   	        407 B / 52.885 MiB, 0%, 226 B/s, ETA 2d19h51m
+Checks:                 1 / 1, 100%
+Transferred:            0 / 1146, 0%
+Elapsed time:         1.5s
+Transferring:
+ *                                    .gitignore:100% /13, 12/s, 0s
+ *                                   .gitmodules:100% /214, 213/s, 0s
+ *                                     .sync.log:100% /180, 0/s, -
+ *                                     README.md:  0% /177, 0/s, -Transferred:   	        584 B / 52.885 MiB, 0%, 226 B/s, ETA 2d19h51m
+Checks:                 1 / 1, 100%
+Transferred:            0 / 1146, 0%
+Elapsed time:         2.0s
+Transferring:
+ *                                    .gitignore:100% /13, 6/s, 0s
+ *                                   .gitmodules:100% /214, 106/s, 0s
+ *                                     .sync.log:100% /180, 89/s, 0s
+ *                                     README.md:100% /177, 88/s, 0sTransferred:   	        584 B / 52.885 MiB, 0%, 291 B/s, ETA 2d4h45m
+Checks:                 1 / 1, 100%
+Transferred:            1 / 1146, 0%
+Elapsed time:         2.4s
+Transferring:
+ *                                   .gitmodules:100% /214, 106/s, 0s
+ *                                     .sync.log:100% /180, 89/s, 0s
+ *                                     README.md:100% /177, 88/s, 0s
+ *                                       TODO.md:  0% /400, 0/s, -Transferred:   	        584 B / 52.885 MiB, 0%, 291 B/s, ETA 2d4h45m
+Checks:                 1 / 1, 100%
+Transferred:            1 / 1146, 0%
+Elapsed time:         3.0s
+Transferring:
+ *                                   .gitmodules:100% /214, 106/s, 0s
+ *                                     .sync.log:100% /180, 89/s, 0s
+ *                                     README.md:100% /177, 88/s, 0s
+ *                                       TODO.md:  0% /400, 0/s, -Transferred:   	        984 B / 52.885 MiB, 0%, 194 B/s, ETA 3d7h7m
+Checks:                 1 / 1, 100%
+Transferred:            1 / 1146, 0%
+Elapsed time:         3.4s
+Transferring:
+ *                                   .gitmodules:100% /214, 71/s, 0s
+ *                                     .sync.log:100% /180, 59/s, 0s
+ *                                     README.md:100% /177, 59/s, 0s
+ *                                       TODO.md:100% /400, 399/s, 0sTransferred:   	        984 B / 52.885 MiB, 0%, 245 B/s, ETA 2d14h36m
+Checks:                 1 / 1, 100%
+Transferred:            2 / 1146, 0%
+Elapsed time:         4.0s
+Transferring:
+ *                                   .gitmodules:100% /214, 53/s, 0s
+ *                                     README.md:100% /177, 44/s, 0s
+ *                                       TODO.md:100% /400, 399/s, 0s
+ *                                  _cleanup.log:  0% /13.179Mi, 0/s, -Transferred:   	        984 B / 52.885 MiB, 0%, 245 B/s, ETA 2d14h36m
+Checks:                 1 / 1, 100%
+Transferred:            3 / 1146, 0%
+Elapsed time:         4.4s
+Transferring:
+ *                                     README.md:100% /177, 44/s, 0s
+ *                                       TODO.md:100% /400, 199/s, 0s
+ *                                  _cleanup.log:  0% /13.179Mi, 0/s, -
+ *                              snipppool.dev.db:  0% /8Ki, 0/s, -Transferred:   	        984 B / 52.885 MiB, 0%, 245 B/s, ETA 2d14h36m
+Checks:                 1 / 1, 100%
+Transferred:            4 / 1146, 0%
+Elapsed time:         4.9s
+Transferring:
+ *                                       TODO.md:100% /400, 199/s, 0s
+ *                                  _cleanup.log:  0% /13.179Mi, 0/s, -
+ *                              snipppool.dev.db:  0% /8Ki, 0/s, -
+ *                                  start_dev.sh:  0% /1.357Ki, 0/s, -Transferred:   	  128.961 KiB / 52.885 MiB, 0%, 196 B/s, ETA 3d6h5m
+Checks:                 1 / 1, 100%
+Transferred:            5 / 1146, 0%
+Elapsed time:         5.4s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 0/s, -
+ *                              snipppool.dev.db:  0% /8Ki, 0/s, -
+ *                                  start_dev.sh:  0% /1.357Ki, 0/s, -
+ *                               sync_report.txt:  0% /0, 0/s, -Transferred:   	  136.961 KiB / 52.885 MiB, 0%, 196 B/s, ETA 3d6h4m
+Checks:                 1 / 1, 100%
+Transferred:            5 / 1146, 0%
+Elapsed time:         5.9s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 64Ki/s, 3m28s
+ *                              snipppool.dev.db:100% /8Ki, 0/s, -
+ *                                  start_dev.sh:  0% /1.357Ki, 0/s, -
+ *                               sync_report.txt:  0% /0, 0/s, -Transferred:   	  138.318 KiB / 52.885 MiB, 0%, 22.826 KiB/s, ETA 39m26s
+Checks:                 1 / 1, 100%
+Transferred:            5 / 1146, 0%
+Elapsed time:         6.4s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 64Ki/s, 3m28s
+ *                              snipppool.dev.db:100% /8Ki, 3.999Ki/s, 0s
+ *                                  start_dev.sh:100% /1.357Ki, 0/s, -
+ *                               sync_report.txt:  0% /0, 0/s, -Transferred:   	  142.766 KiB / 52.885 MiB, 0%, 22.826 KiB/s, ETA 39m26s
+Checks:                 1 / 1, 100%
+Transferred:            5 / 1146, 0%
+Elapsed time:         7.0s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 42.667Ki/s, 5m1
+ *                              snipppool.dev.db:100% /8Ki, 3.999Ki/s, 0s
+ *                                  start_dev.sh:100% /1.357Ki, 695/s, 0s
+ *                               sync_report.txt:  0% /0, 0/s, -Transferred:   	  142.766 KiB / 52.885 MiB, 0%, 20.395 KiB/s, ETA 44m8s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         7.4s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 42.667Ki/s, 5m1
+ *                                  start_dev.sh:100% /1.357Ki, 695/s, 0s
+ *                               sync_report.txt:  0% /0, 2.224Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  0% /1.936Mi, 0/s, -Transferred:   	  142.766 KiB / 52.885 MiB, 0%, 20.395 KiB/s, ETA 44m8s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         7.9s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 32Ki/s, 6m57s
+ *                                  start_dev.sh:100% /1.357Ki, 463/s, 0s
+ *                               sync_report.txt:  0% /0, 2.224Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  0% /1.936Mi, 0/s, -Transferred:   	  142.766 KiB / 52.885 MiB, 0%, 17.845 KiB/s, ETA 50m26s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         8.4s
+Transferring:
+ *                                  _cleanup.log:  0% /13.179Mi, 32Ki/s, 6m57s
+ *                                  start_dev.sh:100% /1.357Ki, 463/s, 0s
+ *                               sync_report.txt:  0% /0, 1.482Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  0% /1.936Mi, 0/s, -Transferred:   	  398.766 KiB / 52.885 MiB, 1%, 17.845 KiB/s, ETA 50m12s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         8.9s
+Transferring:
+ *                                  _cleanup.log:  2% /13.179Mi, 76.800Ki/s, 2m5
+ *                                  start_dev.sh:100% /1.357Ki, 347/s, 0s
+ *                               sync_report.txt:  0% /0, 1.482Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  0% /1.936Mi, 0/s, -Transferred:   	  398.766 KiB / 52.885 MiB, 1%, 44.307 KiB/s, ETA 20m13s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         9.4s
+Transferring:
+ *                                  _cleanup.log:  2% /13.179Mi, 76.800Ki/s, 2m5
+ *                                  start_dev.sh:100% /1.357Ki, 347/s, 0s
+ *                               sync_report.txt:  0% /0, 1.111Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  0% /1.936Mi, 0/s, -Transferred:   	  526.766 KiB / 52.885 MiB, 1%, 44.307 KiB/s, ETA 20m10s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:         9.9s
+Transferring:
+ *                                  _cleanup.log:  2% /13.179Mi, 63.999Ki/s, 3m2
+ *                                  start_dev.sh:100% /1.357Ki, 278/s, 0s
+ *                               sync_report.txt:  0% /0, 1.111Ki/s, -
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 0/s, -Transferred:   	  910.766 KiB / 52.885 MiB, 2%, 52.676 KiB/s, ETA 16m50s
+Checks:                 1 / 1, 100%
+Transferred:            6 / 1146, 1%
+Elapsed time:        10.4s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 63.999Ki/s, 3m1
+ *                                  start_dev.sh:100% /1.357Ki, 278/s, 0s
+ *                               sync_report.txt:  0% /0, 910/s, -
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 42.666Ki/s, 43sTransferred:   	  910.766 KiB / 52.885 MiB, 2%, 52.676 KiB/s, ETA 16m50s
+Checks:                 1 / 1, 100%
+Transferred:            7 / 1146, 1%
+Elapsed time:        10.9s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 109.712Ki/s, 1m
+ *                               sync_report.txt:  0% /0, 910/s, -
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 42.666Ki/s, 43s
+ *                           .git/COMMIT_EDITMSG:  0% /37, 0/s, -Transferred:   	  910.766 KiB / 52.885 MiB, 2%, 82.797 KiB/s, ETA 10m43s
+Checks:                 1 / 1, 100%
+Transferred:            7 / 1146, 1%
+Elapsed time:        11.4s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 109.712Ki/s, 1m
+ *                               sync_report.txt:  0% /0, 759/s, -
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 31.999Ki/s, 57s
+ *                           .git/COMMIT_EDITMSG:  0% /37, 0/s, -Transferred:   	  910.766 KiB / 52.889 MiB, 2%, 82.797 KiB/s, ETA 10m43s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        11.9s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 95.998Ki/s, 2m1
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 31.999Ki/s, 57s
+ *                           .git/COMMIT_EDITMSG:  0% /37, 0/s, -
+ *                          markdproject/info.md:  0% /473, 0/s, -Transferred:   	  910.766 KiB / 52.889 MiB, 2%, 75.896 KiB/s, ETA 11m41s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        12.4s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 95.998Ki/s, 2m1
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 25.600Ki/s, 1m12
+ *                           .git/COMMIT_EDITMSG:  0% /37, 0/s, -
+ *                          markdproject/info.md:  0% /473, 0/s, -Transferred:   	  910.766 KiB / 52.889 MiB, 2%, 75.896 KiB/s, ETA 11m41s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        12.9s
+Transferring:
+ *                                  _cleanup.log:  5% /13.179Mi, 85.332Ki/s, 2m2
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 25.600Ki/s, 1m12
+ *                           .git/COMMIT_EDITMSG:  0% /37, 0/s, -
+ *                          markdproject/info.md:  0% /473, 0/s, -Transferred:   	    1.389 MiB / 52.889 MiB, 3%, 89.443 KiB/s, ETA 9m49s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        13.4s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 85.332Ki/s, 2m2
+ *                markdproject/Markdapp Plan.zip:  6% /1.936Mi, 21.333Ki/s, 1m26
+ *                           .git/COMMIT_EDITMSG:100% /37, 0/s, -
+ *                          markdproject/info.md:  0% /473, 0/s, -Transferred:   	    1.640 MiB / 52.889 MiB, 3%, 89.443 KiB/s, ETA 9m46s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        13.9s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 127.998Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 19% /1.936Mi, 21.333Ki/s, 1m14
+ *                           .git/COMMIT_EDITMSG:100% /37, 12/s, 0s
+ *                          markdproject/info.md:100% /473, 236/s, 0sTransferred:   	    1.640 MiB / 52.889 MiB, 3%, 119.947 KiB/s, ETA 7m17s
+Checks:                 1 / 1, 100%
+Transferred:            8 / 1146, 1%
+Elapsed time:        14.4s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 127.998Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 19% /1.936Mi, 54.856Ki/s, 29s
+ *                           .git/COMMIT_EDITMSG:100% /37, 12/s, 0s
+ *                          markdproject/info.md:100% /473, 236/s, 0sTransferred:   	    1.640 MiB / 52.889 MiB, 3%, 119.947 KiB/s, ETA 7m17s
+Checks:                 1 / 1, 100%
+Transferred:            9 / 1146, 1%
+Elapsed time:        14.9s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 116.362Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 19% /1.936Mi, 54.856Ki/s, 29s
+ *                          markdproject/info.md:100% /473, 157/s, 0s
+ *                               .git/FETCH_HEAD:  0% /101, 0/s, -Transferred:   	    1.640 MiB / 52.889 MiB, 3%, 111.950 KiB/s, ETA 7m48s
+Checks:                 1 / 1, 100%
+Transferred:            9 / 1146, 1%
+Elapsed time:        15.4s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 116.362Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 19% /1.936Mi, 47.999Ki/s, 33s
+ *                          markdproject/info.md:100% /473, 157/s, 0s
+ *                               .git/FETCH_HEAD:100% /101, 0/s, -Transferred:   	    2.015 MiB / 52.889 MiB, 4%, 111.950 KiB/s, ETA 7m45s
+Checks:                 1 / 1, 100%
+Transferred:            9 / 1146, 1%
+Elapsed time:        15.9s
+Transferring:
+ *                                  _cleanup.log:  9% /13.179Mi, 106.665Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 38% /1.936Mi, 47.999Ki/s, 25s
+ *                          markdproject/info.md:100% /473, 118/s, 0s
+ *                               .git/FETCH_HEAD:100% /101, 100/s, 0sTransferred:   	    2.640 MiB / 52.889 MiB, 5%, 128.960 KiB/s, ETA 6m38s
+Checks:                 1 / 1, 100%
+Transferred:           10 / 1146, 1%
+Elapsed time:        16.5s
+Transferring:
+ *                                  _cleanup.log: 14% /13.179Mi, 106.665Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 38% /1.936Mi, 85.333Ki/s, 14s
+ *                          markdproject/info.md:100% /473, 118/s, 0s
+ *                        markdproject/modal.zip:  0% /1.459Ki, 0/s, -Transferred:   	    2.641 MiB / 52.889 MiB, 5%, 160.991 KiB/s, ETA 5m19s
+Checks:                 1 / 1, 100%
+Transferred:           10 / 1146, 1%
+Elapsed time:        17.0s
+Transferring:
+ *                                  _cleanup.log: 14% /13.179Mi, 147.690Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 38% /1.936Mi, 76.800Ki/s, 15s
+ *                          markdproject/info.md:100% /473, 94/s, 0s
+ *                        markdproject/modal.zip:100% /1.459Ki, 0/s, -Transferred:   	    2.641 MiB / 52.889 MiB, 5%, 160.991 KiB/s, ETA 5m19s
+Checks:                 1 / 1, 100%
+Transferred:           11 / 1146, 1%
+Elapsed time:        17.5s
+Transferring:
+ *                                  _cleanup.log: 14% /13.179Mi, 147.690Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 38% /1.936Mi, 76.800Ki/s, 15s
+ *                        markdproject/modal.zip:100% /1.459Ki, 1.458Ki/s, 0s
+ *                                     .git/HEAD:  0% /23, 0/s, -Transferred:   	    3.141 MiB / 52.889 MiB, 6%, 160.991 KiB/s, ETA 5m16s
+Checks:                 1 / 1, 100%
+Transferred:           12 / 1146, 1%
+Elapsed time:        18.0s
+Transferring:
+ *                                  _cleanup.log: 14% /13.179Mi, 137.142Ki/s, 1m
+ *                markdproject/Markdapp Plan.zip: 64% /1.936Mi, 116.363Ki/s, 6s
+ *                                     .git/HEAD:100% /23, 0/s, -
+ *                                   .git/config:  0% /619, 0/s, -
