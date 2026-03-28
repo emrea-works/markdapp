@@ -11,6 +11,10 @@ Study and refine the work.
 3. What can be reduced?
 4. What is missing currently?
 
+Created new branch for markdata app: markdapp-era.
+
+Committed left change into that branch not touching master since two years.
+
 **2025-02-05-17-02**
 
 New branch: wagmi-2, authentication successful, saves cookie, button works well.
