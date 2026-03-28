@@ -1,5 +1,16 @@
 # mark'dapp Cruise Log
 
+**2026-03-28-16-09**
+
+Long time later, back to the project. So many points were forgotten.
+
+Study and refine the work.
+
+1. What is the main goal?
+2. How does architecture look?
+3. What can be reduced?
+4. What is missing currently?
+
 **2025-02-05-17-02**
 
 New branch: wagmi-2, authentication successful, saves cookie, button works well.
