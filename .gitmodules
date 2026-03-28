@@ -1,10 +1,10 @@
-[submodule "markiosk"]
-	path = markiosk
-	url = git@github.com:emrea-works/monoco-dapp.git
-	branch = self-hosting
 [submodule "markedata"]
 	path = markedata
 	url = git@github.com:emrea-works/dapp-monoco-database.git
 [submodule "markedprotocol"]
 	path = markedprotocol
-	url = https://github.com/emrea-works/markdapp.protocol
+	url = git@github.com:emrea-works/markdapp.protocol.git
+[submodule "markiosk"]
+	path = markiosk
+	url = git@github.com:emrea-works/markdapp.client.git
+	branch = newframework
