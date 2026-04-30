@@ -1,5 +1,26 @@
 # mark'dapp Cruise Log
 
+**2026-04-30**
+
+1. What is the main goal?
+	- Using the same contracts for a basic NFT Marketplace
+2. How does architecture look?
+	- Wagmi Connector
+	- Ramix.run V2
+	- Prisma ORM
+	- MongoDB
+3. What can be reduced?
+	- Nothing  for now
+4. What is missing currently?
+	- Local MongoDB [^157] 
+
+
+[^157]: Too many errors on sign-in processes. It's better to set a local mongoDB container
+
+
+
+
+
 **2026-03-28-16-09**
 
 Long time later, back to the project. So many points were forgotten.
